@@ -1,0 +1,22 @@
+{
+  "name": "expresspractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RupeshBista205/expressPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RupeshBista205/expressPractice/issues"
+  },
+  "homepage": "https://github.com/RupeshBista205/expressPractice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
